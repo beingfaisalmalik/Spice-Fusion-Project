@@ -1,2 +1,2 @@
-# Spice-Fusion-Project
-This Repository Is For Storing Configuration Items And Associated QA Records.
+# OOAD PROJECT FOR DIAGRAMS EMAIL Or contact
+This Is Resturant Management Project
